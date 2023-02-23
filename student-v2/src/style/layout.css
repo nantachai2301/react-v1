@@ -1,7 +1,8 @@
-.main-layout{
-    min-height: 80vh;
+.main-layout {
+  min-height: 100vh;
 }
-.footer{
-    height: 60px;
-    color: #ffff;
+
+.footer {
+  height: 60px;
+  color: #ffff;
 }

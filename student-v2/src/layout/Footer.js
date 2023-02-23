@@ -1,17 +1,11 @@
-import React from "react";
+import React from 'react';
 
-const Footer = () => {
+function Footer() {
   return (
-    <Footer
-      className="footer"
-      bg-dark
-      d-flex
-      justify-content-center
-      align-item-center
-    >
-      <p> Create By @nantachai Sangarun </p>
-    </Footer>
+    <footer className="footer bg-info d-flex justify-content-center align-items-center">
+      <p className="mt-3">Hugcode Created By Jakkrit Dokkem</p>
+    </footer>
   );
-};
+}
 
 export default Footer;
