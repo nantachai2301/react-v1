@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 
 function Footer() {
   return (
-    <footer className="footer bg-info d-flex justify-content-center align-items-center">
-      <p className="mt-3">Hugcode Created By Jakkrit Dokkem</p>
+    <footer className="footer bg-dark d-flex justify-content-center align-items-center">
+      <p className="mt-3"> Created By @nantachai sangarun</p>
     </footer>
   );
 }
